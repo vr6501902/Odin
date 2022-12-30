@@ -1,7 +1,7 @@
 .flex-box{
     display: flex;
 }
-.flex-box.div{
-    color:aqua;
+.flex-box div{
+    background-color:aqua;
     border-color: blue;
 }
